@@ -1,5 +1,7 @@
 # Formation Git
 
+>exercice de la formation diginamic JEE 
+
 ## Commande Git
 
 * **init**
