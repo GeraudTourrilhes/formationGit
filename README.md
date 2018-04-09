@@ -11,12 +11,11 @@
 
 
 * **status**
-  * Permet d'avoir la liste des ajouts et modifications qui n'ont pas était commit
+  * Permet d'avoir la liste des ajouts et modifications qui n'ont pas était historisé
 
 
 * **branch**
-  * Permet d'avoir la liste des branches et précise sur laquel on se trouve
-
+  * Permet d'avoir la liste des branches et précise la branche courrante
 
 * **checkout**
   * Permet de changer de branche
@@ -27,15 +26,11 @@
 
 
 * **log**
-  * Permet d'avoir l'historique des commit sur la branche actuel
-
-
-* **add**
-  * Permet d'envoyer les fichier ajouté, modifié dans une liste
+  * Permet d'avoir l'historique des modifications sur la branche actuel
 
 
 * **commit**
-  * Permet d'envoyer la liste de fichier ajouté, modifié de manière permanente dans l'historisation
+  * Permet d'envoyer la liste de changement de manière permanente dans l'historisation
 
 
 * **merge**
